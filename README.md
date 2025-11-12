@@ -23,3 +23,9 @@ MacOS
 ```
 source contraint-programming-env/bin/activate
 ```
+
+## Install CPMpy
+
+```
+pip install cpmpy
+```
